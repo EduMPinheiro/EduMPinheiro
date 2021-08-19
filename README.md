@@ -7,7 +7,7 @@
     <a href="https://github.com/EduMPinheiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumpinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumpinheiro&layout=compact&langs_count=16&theme=dark"/>
-    </a>
+    
 </div>
 <div style="display: inline-block"><br>
   <img align="center" alt="Edu-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg">
@@ -28,6 +28,8 @@
   
   
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=edumpinheiro&color=green" alt="edumpinheiro"/> 
 
 
 
