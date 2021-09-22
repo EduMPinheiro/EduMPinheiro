@@ -33,4 +33,4 @@
 <img src="https://komarev.com/ghpvc/?username=EduMPinheiro&color=green" alt="edumpinheiro"/> 
 
 
-
+![Snake animation]~(https://github.com/EduMPinheiro/EduMPinheiro/blob/output/github-contribution-grid-snake.svg)
