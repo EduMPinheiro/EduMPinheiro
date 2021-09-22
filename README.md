@@ -30,7 +30,7 @@
   
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=edumpinheiro&color=green" alt="edumpinheiro"/> 
+<img src="https://komarev.com/ghpvc/?username=EduMPinheiro&color=green" alt="edumpinheiro"/> 
 
 
 
