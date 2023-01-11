@@ -1,6 +1,6 @@
 - ## 👋 Hey! I'm Eduardo Pinheiro
 - 🥝 I'm Brazilian, but I speak fluent English
-- 🌱 I’m currently learning Front-End (HTML/CSS/JavaScript), and I promisse I will be the best
+- 🌱 I’m currently learning Java
 - ⌨️ I'm willing to cooperate in open-source projects
 - 📫 Contact me on email: pinheiro.edu96@gmail.com
 
