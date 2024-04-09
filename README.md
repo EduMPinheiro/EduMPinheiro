@@ -11,9 +11,7 @@
     
 </div>
 <div style="display: inline-block"><br>
-  <img align="center" alt="Edu-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Edu-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Edu-JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg">
+  
   <img align="center" alt="Edu-PY" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original-wordmark.svg">
   
 </div>
