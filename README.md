@@ -1,6 +1,6 @@
 - ## 👋 Hey! I'm Eduardo Pinheiro
 - 🥝 I'm Brazilian, but I speak fluent English
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently getting proficient in Excel, Python and SQL
 - ⌨️ I'm willing to cooperate in open-source projects
 - 📫 Contact me on email: pinheiro.edu96@gmail.com
 
