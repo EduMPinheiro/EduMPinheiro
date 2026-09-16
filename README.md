@@ -1,34 +1,117 @@
-- ## 👋 Hey! I'm Eduardo Pinheiro
-- 🥝 I'm Brazilian, but I speak fluent English
-- 🌱 I’m currently getting proficient in Excel, Python and SQL
-- ⌨️ I'm willing to cooperate in open-source projects
-- 📫 Contact me on email: pinheiro.edu96@gmail.com
+```md
+<div align="center">
 
-<div>
-    <a href="https://github.com/EduMPinheiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edumpinheiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    
-    
-</div>
-<div style="display: inline-block"><br>
-  
-  <img align="center" alt="Edu-PY" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original-wordmark.svg">
-  
+# EDU PINHEIRO
+
+### I build things for the web.
+
+Websites, digital products and experiments.
+
+São Paulo, Brazil.
+
+[Portfolio](https://edupinheiro.dev.br)
+
 </div>
 
-##
+<br />
 
-<div>
-  
-  
-  <a href="https://instagram.com/edu_mpinheiro" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-martines-pinheiro-b82b02111" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/edu_mpinheiro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  
-  
+## Selected work
+
+### [Betegauna](https://betegauna.com.br)
+
+Portfolio and digital presence for a professional calligrapher and engraving artist.
+
+`Design` `Development`
+
+---
+
+### [Tarot da Joli](https://tarotdajoli.com.br)
+
+An interactive tarot experience built around content, exploration and daily readings.
+
+`Design` `Development` `Interactive Experience`
+
+---
+
+### [Instituto Nastri](https://institutonastri.vercel.app)
+
+A modern institutional website focused on clear information, services and accessibility.
+
+`Web Design` `Development`
+
+---
+
+### [DEX+](https://dex-plus.vercel.app)
+
+A digital product concept exploring interface design, usability and visual identity.
+
+`Product Design` `Frontend`
+
+---
+
+### [Zarah Flor](https://zarahflor.vercel.app)
+
+A visual web experience created with a strong focus on presentation and brand identity.
+
+`Web Design` `Development`
+
+<br />
+
+## Lab
+
+Not everything I build starts as a client project.
+
+Sometimes it's a tool, an interface, a product idea or just an experiment I wanted to see working.
+
+I'm especially interested in exploring:
+
+- AI-assisted products
+- Web interfaces
+- Interactive experiences
+- Small tools that solve real problems
+- New ways of building for the web
+
+<br />
+
+## About
+
+Mostly websites. Sometimes something else.
+
+I'm Edu, based in São Paulo, Brazil.
+
+I like turning ideas into things people can actually use. I usually work from the first concept through design, development and deployment, experimenting along the way until the idea feels right.
+
+I care about simple interfaces, good visual hierarchy and products that don't feel generic.
+
+<br />
+
+## Tools
+
+I mostly work with:
+
+`React` · `TypeScript` · `Tailwind CSS` · `Next.js` · `Vercel`
+
+Along with AI-assisted development tools and whatever else makes sense for the project.
+
+<br />
+
+## Currently
+
+Building websites, experimenting with digital products and exploring how AI can make the process of turning an idea into a real product faster and more accessible.
+
+<br />
+
+## Elsewhere
+
+→ [edupinheiro.dev.br](https://edupinheiro.dev.br)
+
+<br />
+
+<div align="center">
+
+**Have something in mind?**
+
+Let's build it.
+
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=EduMPinheiro&color=green" alt="edumpinheiro"/> 
-
-
-![Snake animation](https://github.com/EduMPinheiro/EduMPinheiro/blob/output/github-contribution-grid-snake.svg)
+```
